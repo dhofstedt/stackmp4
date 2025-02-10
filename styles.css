@@ -1,0 +1,7 @@
+/* Custom CSS for better styling */
+#sliderThumb {
+  transition: top 0.1s ease-in-out;
+}
+#sliderThumb:hover {
+  background-color: #ddd;
+}
